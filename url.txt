@@ -1,0 +1,12 @@
+京东客服对话数据集
+https://github.com/EndlessLethe/jddc2019-3th-retrieve-model.
+淘宝客服对话数据集
+https://github.com/cooelf/DeepUtteranceAggregation.
+阿里天池联合复旦大学大数据学院发布了IMCS21数据集
+https://tianchi.aliyun.com/dataset/dataDetail?dataId=95414.
+带有知识标注的中文多轮对话数据集KdConv
+https://github.com/thu-coai/KdConv
+MedDG数据集
+https://drive.google.com/drive/folders/109WnXlNhmqttxYwb4EEscYGcA_-eq8Eg?usp=sharing.
+MedDialog数据集
+https://tianchi.aliyun.com/dataset/dataDetail?dataId=92110.
